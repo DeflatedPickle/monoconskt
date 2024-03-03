@@ -1,0 +1,3 @@
+[submodule "src/main/resources/monocons"]
+	path = src/main/resources/monocons
+	url = https://github.com/DeflatedPickle/monocons
